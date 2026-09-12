@@ -2,5 +2,5 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 
-    println("Hello, soy un asistente universitario, mucho gusto")
+    println("Hola, soy erick y estoy aprendiendo kotlin")
 }
